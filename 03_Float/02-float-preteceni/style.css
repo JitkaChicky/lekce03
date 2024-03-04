@@ -33,6 +33,7 @@ h1 {
 	padding: 1em;
 	background-color: #ffffaa;
 	border: 5px dashed red;
+	overflow: auto;
 }
 
 

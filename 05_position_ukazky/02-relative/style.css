@@ -2,11 +2,20 @@
 .relative {
     /* zde dopis relativni pozicovani prostredniho obdelniku */
     
+    
 }
 
+.cervena {
+    position: relative;
+    top: 100px;
+    left:250px
+}
 
+.relative:hover{
+    position: relative;
+    left:10%;
 
-
+}
 
 /* --------------------- */
 

@@ -1,6 +1,7 @@
 .hlavicka {
 	/* napozicuj hlavičku fixně k hornímu okraji stránky */
-
+position: fixed;
+width: 100%;
 }
 
 
@@ -12,5 +13,9 @@
 
 .poznamka {
 	/* napozicuj poznámku k pravému okraji okraji stránky */
+
+}
+body{
+	margin:0;
 
 }
